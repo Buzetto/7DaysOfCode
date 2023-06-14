@@ -1,2 +1,3 @@
 # 7DaysOfCode
-Desafio de 07 dias para colocar em prática os aprendizados em HTML e CSS
+
+Desafio realizado pela instrutora e programadora Giovanna Moeller para colocar em prática todo conhecimento adquirido através do curso de HTML & CSS.
