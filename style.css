@@ -315,6 +315,7 @@
 
 /*MOBILE*/
 @media (max-width: 450px) {
+    
     .cabecalho {
         width: 100%;
     }
@@ -369,4 +370,65 @@
         margin-top: 1.5em;
         margin-bottom: 0.5em;
     }
-}    
+}
+
+/*TABLETS*/
+@media (min-width: 451px) and (max-width: 1024px) {
+
+    .cabecalho {
+        width: 100%;
+    }
+    
+    .cabecalho__botao__div {
+        display: none;
+    }
+
+    .cabecalho__list__itens {
+        margin: 10px;
+        padding: 0;
+    }
+
+    .cabecalho__botao__div {
+        display: none;
+    }
+
+    .segunda__sessao {
+        width: 100%;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        text-align: center;
+    }
+
+    .segunda__sessao__informacoes {
+        margin: 1em;
+    }
+
+    .terceira__sessao_imagem {
+        width: 100%;
+    }
+
+    .terceira__sessao__vagas__abertas {
+        margin: 0;
+        padding: 0;
+    }
+
+    .quarta__sessao {
+        margin: 0;
+        text-align: center;
+    }
+
+    .rodape {
+        width: 100%;
+        padding: 2em;
+    }
+
+    .rodape__email {
+        width: 100%;
+    }
+
+    .rodape__copyright {
+        margin-top: 1.5em;
+        margin-bottom: 0.5em;
+    }
+}
