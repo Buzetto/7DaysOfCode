@@ -27,18 +27,6 @@
     margin-top: 18px;
 }
 
-.mobile__menu {
-    display: none;
-    cursor: pointer;
-}
-
-.mobile__menu div {
-    width: 28px;
-    height: 2px;
-    background: #000;
-    margin: 5px;
-}
-
 .cabecalho__lista {
     display: flex;
     flex-direction: row;
